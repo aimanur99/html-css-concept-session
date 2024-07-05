@@ -17,5 +17,21 @@ h2{
     height: 450px;
     padding: 50px;
     width: 500px;
-    margin: 59px auto;
+    /* max-width: 1100px; */
+    margin: 59px auto;   
+}
+.btn-parent{
+    text-align: center;
+}
+.btn{
+    background-color: tomato;
+    padding: 8px 15px;
+    color: cornflowerblue;
+    border: solid;
+    border-width: 4px;
+    border-color: yellow;
+    border-radius: 6px;
+    width: 400px;
+    margin: 70px;
+    text-align: center;
 }
